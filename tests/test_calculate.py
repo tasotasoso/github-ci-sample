@@ -1,6 +1,7 @@
 import unittest
 from src import calculate
 
+
 class TestCalculate(unittest.TestCase):
     """test class of calculate.py
     """
